@@ -1,0 +1,38 @@
+* {
+  margin: 8px;
+}
+.circulo1 {
+  background-color: aqua;
+  padding: 20px;
+  border-radius: 1200px;
+}
+.circulo2 {
+  background-color: yellowgreen;
+  padding: 20px;
+  border-radius: 200px;
+}
+.circulo3 {
+  background-color: coral;
+  padding: 20px;
+  border-radius: 200px;
+}
+.circulo4 {
+  background-color: yellow;
+  padding: 20px;
+  border-radius: 200px;
+}
+.circulo5 {
+  background-color: moccasin;
+  padding: 20px;
+  border-radius: 200px;
+}
+.circulo6 {
+  background-color: deeppink;
+  padding: 20px;
+  border-radius: 200px;
+}
+.circulo7 {
+  background-color: darkcyan;
+  padding: 20px;
+  border-radius: 200px;
+}
